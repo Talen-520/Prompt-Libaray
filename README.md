@@ -5,12 +5,15 @@
 ##  目录 (Contents)
 
 - [Text to Image (文生图)](#text-to-image-文生图)
+- [Image to Image (图生图)](#image-to-image-图生图)
 
 ---
 
 ## Text to Image (文生图)
 
 这里收集了用于生成高质量图像的提示词。
+
+模型推荐： [Wang](https://create.wan.video/), [Grok](https://grok.com/), [即梦AI](https://jimeng.jianying.com/ai-tool/home/)
 
 ### 1. Candid Charm: The Playful Gaze (抓拍，俏皮的凝视)
 
@@ -33,3 +36,22 @@
 ![High Fidelity Photorealism](text-to-image/Prompt_2_example.jpg)
 
 **[查看详细 Prompt (JSON)](text-to-image/prompt_2.json)**
+
+---
+
+## Image to Image (图生图)
+
+这里收集了用于图像到图像生成的提示词。
+
+模型推荐： [Gemini (Nano Banana)](https://gemini.google.com/)
+
+### 1. High-Fashion Editorial Portrait (高级时尚杂志人像)
+
+**分类 (Category)**: High-Fashion Editorial / Monochrome (高级时尚杂志 / 黑白)  
+**基调 (Tone)**: Dramatic, Artistic, Intense (戏剧性、艺术、强烈)
+
+> **描述**: 黑白高级时尚杂志人像，具有戏剧性的光影和强烈的凝视。
+
+![High-Fashion Editorial Portrait](image-to-image/prompt_1.jpg)
+
+**[查看详细 Prompt (TXT)](image-to-image/prompt_1.txt)**
