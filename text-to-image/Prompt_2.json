@@ -1,0 +1,29 @@
+{
+    "style_tag": "High_Fidelity_Photorealism",
+    "aesthetic_tags": [
+        "Korean street fashion",
+        "Xiaohongshu aesthetic",
+        "ulzzang style",
+        "mirror selfie",
+        "soft aesthetic",
+        "muted color palette"
+    ],
+    "subject_geometry": {
+        "description": "Young Asian woman with a cute, soft, round face shape and pale, porcelain skin. Her skin texture is natural and dewy with a soft glow.",
+        "face_detail": "Distinctive large, dark, round eyes with prominent 'aegyo-sal' (charming under-eye fullness), looking up sideways at the camera with a mischievous, innocent doe-eyed gaze. Her mouth is posed in a specific tight-lipped, suppressed smile (lips pressed together firmly in a thin line), creating a shy, playful, and quirky expression.",
+        "proportions": "elongated legs, model proportions, 1:9 head-to-body ratio, cinched tiny waist, hourglass silhouette",
+        "pose": "standing straight, legs crossed at ankles (right over left), distinct thigh gap, phone obscuring face"
+    },
+    "clothing_stack": {
+        "outerwear": "Double-breasted peplum coat in muted taupe-greige. Structure: stiff tailoring, flared hip hem (skirt-like). Details: Six prominent gold shank buttons. Trim: Voluminous, fluffy brownish-grey faux fur collar and matching massive fur cuffs covering the wrists.",
+        "bottoms": "Micro-mini black shorts, barely visible, creating 'zettai ryouiki' (gap of bare skin between boots and hem).",
+        "footwear": "Over-the-knee suede boots in pale concrete grey. Fit: skin-tight, sock-boot style, pointed toe, high heel, smoothing the leg shape."
+    },
+    "environment_details": {
+        "location": "Uniqlo or fast-fashion retail store interior",
+        "background_clutter": "Racks of down puffer jackets, hanging garments in muted earth tones (olive, beige, black).",
+        "lighting": "Overhead cool-white retail strip lighting, diffused by phone camera filter.",
+        "reflections": "Vertical mirror frame visible on left edge, polished tile floor reflecting the boots."
+    },
+    "final_text_prompt": "A hyper-realistic mirror selfie of a female fashion influencer with exaggerated model proportions (long legs, tiny waist). She is wearing a structured, double-breasted peplum coat in muted greige wool with massive, fluffy grey fur cuffs and a fur collar. Gold buttons gleam on the coat. She wears pale grey, skin-tight suede thigh-high boots with a pointed toe, revealing a section of bare upper thigh against tiny black shorts. The face is completely hidden by a white iPhone. Background is a blurred clothing store aisle with racks of puffer jackets and a shopper in the distance. Lighting is cool, soft, and diffused with a desaturated, high-fashion social media filter applied."
+}
