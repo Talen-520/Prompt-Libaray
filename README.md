@@ -33,7 +33,7 @@
 
 > **描述**: 一位时尚博主在服装店的超写实对镜自拍，身穿荷叶边大衣和过膝长靴。
 
-![High Fidelity Photorealism](text-to-image/Prompt_2_example.jpg)
+![High Fidelity Photorealism](text-to-image/prompt_2_example.jpg)
 
 **[查看详细 Prompt (JSON)](text-to-image/prompt_2.json)**
 
