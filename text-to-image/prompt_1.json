@@ -1,0 +1,32 @@
+{
+  "image_metadata": {
+    "title": "Candid Charm: The Playful Gaze",
+    "category": "Hyper-realistic Lifestyle Photography",
+    "tone": "Charming, Raw, Youthful, Candid"
+  },
+  "prompt_elements": {
+    "subject": {
+      "description": "Young Asian woman with a cute, soft, round face shape and pale, porcelain skin. Her skin texture is natural and dewy with a soft glow.",
+      "face_detail": "Distinctive large, dark, round eyes with prominent 'aegyo-sal' (charming under-eye fullness), looking up sideways at the camera with a mischievous, innocent doe-eyed gaze. Her mouth is posed in a specific tight-lipped, suppressed smile (lips pressed together firmly in a thin line), creating a shy, playful, and quirky expression.",
+      "pose": "Crouched low in a full squat, knees bent, body turned away but head turned sharply back over her shoulder to face the lens.",
+      "action": "One arm extended straight out in a long sleeve to interact with a ginger cat."
+    },
+    "fashion": {
+      "garment_top": "Sage-green ribbed knit shrug/top with very long sleeves covering the hands, open back with thin crisscross straps.",
+      "garment_bottom": "Denim shorts.",
+      "footwear": "Bare feet in tan sandals."
+    },
+    "environment": {
+      "setting": "Rustic open-air patio.",
+      "props": "Wooden table with a pink tribal/geometric patterned runner.",
+      "ground": "Rough concrete floor."
+    },
+    "technical_specs": {
+      "style": "Candid smartphone photography aesthetic, high angle shot.",
+      "lighting": "Natural daylight, soft shadows, capturing the gleam in the eyes.",
+      "focus": "Sharp focus on the eyes and the quirky mouth expression."
+    }
+  },
+  "full_prompt_string": "A hyper-realistic candid photo from a high angle showing a young Asian woman squatting on a concrete patio. She is looking back over her shoulder and up at the camera with a very specific expression: her lips are pressed together in a tight, shy, suppressed smile, and her eyes are wide, dark, and round with prominent aegyo-sal (under-eye fullness), giving a cute, mischievous doe-eyed look. She has pale, glowing skin. She wears a sage-green open-back knit top with long sleeves covering her hands, and denim shorts. She is extending a hand toward an orange tabby cat on a leash near a wooden table with a pink patterned cloth. 8k resolution, raw style.",
+  "negative_prompt": "open mouth, teeth showing, laughing, lipstick, heavy makeup, western features, distorted eyes, bad hands, extra fingers, low resolution, blur."
+}
