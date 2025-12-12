@@ -22,7 +22,7 @@
 
 > **描述**: 这张照片展示了一位年轻亚洲女性在露台上蹲着的抓拍瞬间，她回眸看向镜头，眼神俏皮而无辜。
 
-![Candid Charm](text-to-image/prompt_1_example.jpg)
+<img src="text-to-image/prompt_1_example.jpg" alt="Candid Charm" width="600" />
 
 **[查看详细 Prompt (JSON)](text-to-image/prompt_1.json)**
 
@@ -33,7 +33,7 @@
 
 > **描述**: 一位时尚博主在服装店的超写实对镜自拍，身穿荷叶边大衣和过膝长靴。
 
-![High Fidelity Photorealism](text-to-image/prompt_2_example.jpg)
+<img src="text-to-image/prompt_2_example.jpg" alt="High Fidelity Photorealism" width="600" />
 
 **[查看详细 Prompt (JSON)](text-to-image/prompt_2.json)**
 
@@ -52,6 +52,23 @@
 
 > **描述**: 黑白高级时尚杂志人像，具有戏剧性的光影和强烈的凝视。
 
-![High-Fashion Editorial Portrait](image-to-image/prompt_1.jpg)
+<img src="image-to-image/prompt_1.jpg" alt="High-Fashion Editorial Portrait" width="600" />
 
 **[查看详细 Prompt (TXT)](image-to-image/prompt_1.txt)**
+
+
+### 2. character design sheets (角色设计)
+
+**分类 (Category)**: Character Design Sheets / Concept Art (角色设计图 / 概念图)  
+**基调 (Tone)**: Detailed, Professional, Artistic (详细、专业、艺术)
+
+> **描述**: 全景式角色深度概念分解图
+
+<img src="image-to-image/prompt_2.jpg" alt="character design sheets" width="600" />
+
+**[查看详细 Prompt (TXT)](image-to-image/prompt_2.txt)**
+
+
+
+
+
